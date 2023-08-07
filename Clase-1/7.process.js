@@ -11,7 +11,7 @@
 // limpiar recursos
 // })
 
-// current c¿working directory
+// current working directory
 console.log(process.cwd())
 
 // platform
